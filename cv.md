@@ -7,11 +7,11 @@ date: 20160303
 
 #Pamella R. Lach, PhD, MSIS#
 
-
+---
 
 ###Degrees###
 
-Degree | Discipline | Institution | Year
+| Degree | Discipline | Institution | Year |
  ---- |---|--- 
 | MS | Information Science | UNC at Chapel Hill | 2012 |
 | PhD | History | UNC at Chapel Hill | 2007 |
