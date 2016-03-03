@@ -11,12 +11,12 @@ date: 20160303
 
 ###Degrees###
 
-| Degree | Discipline | Institution | Year |
-| --- |--- | --- |
-| MS | Information Science | UNC at Chapel Hill | 2012 |
-| PhD | History | UNC at Chapel Hill | 2007 |
-| MA | History | UNC at Chapel Hill | 2002 |
-| BA | History | Rutgers University | 1998 |
+Degree | Discipline | Institution | Year
+--- |--- | ---
+MS | Information Science | UNC at Chapel Hill | 2012
+PhD | History | UNC at Chapel Hill | 2007
+MA | History | UNC at Chapel Hill | 2002
+BA | History | Rutgers University | 1998
 
 
 ###Areas of Specialization###
