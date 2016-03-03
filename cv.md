@@ -6,11 +6,10 @@ date: 20160303
 ---
 
 #Pamella R. Lach, PhD, MSIS#
-####curriculum vitae####
 
----
 
-### Degrees###
+
+###Degrees###
 
 Degree | Discipline | Institution | Year
  ---- |---|--- 
