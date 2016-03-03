@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Pam Lach
 tagline:          'Hello World'
-description:      'Hellow World! My first static website'
+description:      'Hello World! <br> My first static website'
 url:              http://pamlach.github.io
 baseurl:          /
 
