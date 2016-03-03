@@ -12,7 +12,6 @@ date: 20160303
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
----
 
 ###Degrees###
 
