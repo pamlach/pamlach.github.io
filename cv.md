@@ -10,11 +10,6 @@ date: 20160303
 
 ---
 
-##Hello World##
-*This is my first static site*
-
----
-
 ### Degrees###
 
 Degree | Discipline | Institution | Year
