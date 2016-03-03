@@ -2,29 +2,6 @@
 layout: page
 title: About
 ---
+Pam Lach is the Head of the Center for Faculty and Staff Initiatives and Engagement at the University of Kansas Libraries. She has a PhD in U.S. Cultural History with an emphasis on gender and film history from the University of North Carolina at Chapel Hill (2007). She also has a MS in Information Science from UNC’s School of Information and Library Science (2012). Prior to coming to KU, she was the Associate Director of the Digital Innovation Lab at UNC, where she oversaw the work of the Lab and was the Project Manager for DH Press, a WordPress-based digital humanities visualization toolkit. Pam is interested in how new and emerging technologies can support and redefine scholarship and pedagogy in the humanities and hopes to bridge the divide between technology and humanists.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+![alt text](https://lib.ku.edu/sites/lib.ku.edu/files/images/general/organizational-structure/Pam%20Lach%20New.jpg "Pam Lach")
