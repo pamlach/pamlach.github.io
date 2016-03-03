@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "IDRH Digital Jumpstart Workshop: Easy & Sustainable Web Publishing with Plain Text, Jekyll & Github"
+title: Curriculum Vitae
+about: "IDRH Digital Jumpstart Workshop: Easy & Sustainable Web Publishing with Plain Text, Jekyll & Github"
 date: 20160303
 ---
 
