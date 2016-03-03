@@ -7,15 +7,14 @@ date: 20160303
 
 #Pamella R. Lach, PhD, MSIS#
 
+---
 
 ###Degrees###
 
-| Degree | Discipline | Institution | Year |
-| --- | --- | --- |
-| MS | Information Science | UNC at Chapel Hill | 2012 |
-| PhD | History | UNC at Chapel Hill | 2007 |
-| MA | History | UNC at Chapel Hill | 2002 |
-| BA | History | Rutgers University | 1998 |
+*  **MS, Information Science**, University of North Carolina at Chapel Hill (2012)
+*  **PhD, History**,  University of North Carolina at Chapel Hill (2007)
+*  **MA, History**,  University of North Carolina at Chapel Hill (2002)
+*  **BA, History**, Douglass College, Rutgers University (1998)
 
 
 ###Areas of Specialization###
